@@ -9,7 +9,6 @@
 ![image](install.png)
 docker-compose уже установлен
 # Делаем докерфайлы
-## в команды добавил чисто bash скрипт, чтобы он писал, что контейнеры работают
 ### плохой
 ![image](bad.png)
 ![image](bad-continue.png)
