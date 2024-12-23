@@ -1,0 +1,10 @@
+# .gitignore
+# Игнорировать системные папки
+Desktop/
+Downloads/
+Documents/
+Проекты/
+
+# Игнорировать скрытые системные файлы
+.DS_Store
+Thumbs.db
